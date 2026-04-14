@@ -1,0 +1,222 @@
+{
+  "%23tanstack-start-plugin-adapters": {
+    "file": "assets/__23tanstack-start-plugin-adapters-Cwee5PKy.js",
+    "name": "__23tanstack-start-plugin-adapters",
+    "src": "%23tanstack-start-plugin-adapters",
+    "isDynamicEntry": true
+  },
+  "/Users/ruhaanmukherjee/Documents/work/EarthPulse/src/styles.css": {
+    "file": "assets/styles-DUSFUCEH.css",
+    "src": "/Users/ruhaanmukherjee/Documents/work/EarthPulse/src/styles.css"
+  },
+  "_arrow-right-DdM_eKCk.js": {
+    "file": "assets/arrow-right-DdM_eKCk.js",
+    "name": "arrow-right",
+    "imports": [
+      "_router-D9PAxtDW.js"
+    ]
+  },
+  "_book-open-7wO0o8ZA.js": {
+    "file": "assets/book-open-7wO0o8ZA.js",
+    "name": "book-open",
+    "imports": [
+      "_router-D9PAxtDW.js"
+    ]
+  },
+  "_external-link-daypFgz8.js": {
+    "file": "assets/external-link-daypFgz8.js",
+    "name": "external-link",
+    "imports": [
+      "_router-D9PAxtDW.js"
+    ]
+  },
+  "_proxy-BPaJI9_S.js": {
+    "file": "assets/proxy-BPaJI9_S.js",
+    "name": "proxy",
+    "imports": [
+      "_worker-entry-DlAz7EEQ.js",
+      "_router-D9PAxtDW.js"
+    ]
+  },
+  "_router-D9PAxtDW.js": {
+    "file": "assets/router-D9PAxtDW.js",
+    "name": "router",
+    "isDynamicEntry": true,
+    "imports": [
+      "_worker-entry-DlAz7EEQ.js"
+    ],
+    "dynamicImports": [
+      "src/routes/resources.tsx?tsr-split=component",
+      "src/routes/action.tsx?tsr-split=component",
+      "src/routes/about.tsx?tsr-split=component",
+      "src/routes/index.tsx?tsr-split=component",
+      "src/routes/topics.index.tsx?tsr-split=component",
+      "src/routes/topics.$topicId.tsx?tsr-split=notFoundComponent",
+      "src/routes/topics.$topicId.tsx?tsr-split=component"
+    ],
+    "assets": [
+      "assets/styles-DUSFUCEH.css"
+    ]
+  },
+  "_sparkles-DLb1uCeR.js": {
+    "file": "assets/sparkles-DLb1uCeR.js",
+    "name": "sparkles",
+    "imports": [
+      "_router-D9PAxtDW.js"
+    ]
+  },
+  "_users-C0waMXiC.js": {
+    "file": "assets/users-C0waMXiC.js",
+    "name": "users",
+    "imports": [
+      "_router-D9PAxtDW.js"
+    ]
+  },
+  "_worker-entry-DlAz7EEQ.js": {
+    "file": "assets/worker-entry-DlAz7EEQ.js",
+    "name": "worker-entry",
+    "dynamicImports": [
+      "tanstack-start-manifest:v",
+      "_router-D9PAxtDW.js",
+      "node_modules/@tanstack/react-start/dist/plugin/default-entry/start.ts",
+      "%23tanstack-start-plugin-adapters"
+    ]
+  },
+  "node_modules/@tanstack/react-start/dist/plugin/default-entry/start.ts": {
+    "file": "assets/start-HYkvq4Ni.js",
+    "name": "start",
+    "src": "node_modules/@tanstack/react-start/dist/plugin/default-entry/start.ts",
+    "isDynamicEntry": true
+  },
+  "src/assets/article-climate.jpg": {
+    "file": "assets/article-climate-CiyWHgWh.jpg",
+    "src": "src/assets/article-climate.jpg"
+  },
+  "src/assets/article-energy.jpg": {
+    "file": "assets/article-energy-CnIaCivF.jpg",
+    "src": "src/assets/article-energy.jpg"
+  },
+  "src/assets/article-forests.jpg": {
+    "file": "assets/article-forests-DkOoaNz-.jpg",
+    "src": "src/assets/article-forests.jpg"
+  },
+  "src/assets/article-oceans.jpg": {
+    "file": "assets/article-oceans-BN_Sy18N.jpg",
+    "src": "src/assets/article-oceans.jpg"
+  },
+  "src/assets/hero-earth.jpg": {
+    "file": "assets/hero-earth-JEG1bwaq.jpg",
+    "src": "src/assets/hero-earth.jpg"
+  },
+  "src/routes/about.tsx?tsr-split=component": {
+    "file": "assets/about-CBGCrN5x.js",
+    "name": "about",
+    "src": "src/routes/about.tsx?tsr-split=component",
+    "isDynamicEntry": true,
+    "imports": [
+      "_worker-entry-DlAz7EEQ.js",
+      "_proxy-BPaJI9_S.js",
+      "_router-D9PAxtDW.js",
+      "_users-C0waMXiC.js",
+      "_sparkles-DLb1uCeR.js"
+    ]
+  },
+  "src/routes/action.tsx?tsr-split=component": {
+    "file": "assets/action-Bk9pXUE3.js",
+    "name": "action",
+    "src": "src/routes/action.tsx?tsr-split=component",
+    "isDynamicEntry": true,
+    "imports": [
+      "_worker-entry-DlAz7EEQ.js",
+      "_proxy-BPaJI9_S.js",
+      "_router-D9PAxtDW.js",
+      "_users-C0waMXiC.js",
+      "_arrow-right-DdM_eKCk.js",
+      "_external-link-daypFgz8.js"
+    ]
+  },
+  "src/routes/index.tsx?tsr-split=component": {
+    "file": "assets/index-CQSdBGXD.js",
+    "name": "index",
+    "src": "src/routes/index.tsx?tsr-split=component",
+    "isDynamicEntry": true,
+    "imports": [
+      "_worker-entry-DlAz7EEQ.js",
+      "_proxy-BPaJI9_S.js",
+      "_router-D9PAxtDW.js",
+      "_arrow-right-DdM_eKCk.js",
+      "_sparkles-DLb1uCeR.js"
+    ],
+    "assets": [
+      "assets/hero-earth-JEG1bwaq.jpg",
+      "assets/article-climate-CiyWHgWh.jpg",
+      "assets/article-forests-DkOoaNz-.jpg",
+      "assets/article-oceans-BN_Sy18N.jpg",
+      "assets/article-energy-CnIaCivF.jpg"
+    ]
+  },
+  "src/routes/resources.tsx?tsr-split=component": {
+    "file": "assets/resources-Bh8-Zgg2.js",
+    "name": "resources",
+    "src": "src/routes/resources.tsx?tsr-split=component",
+    "isDynamicEntry": true,
+    "imports": [
+      "_worker-entry-DlAz7EEQ.js",
+      "_proxy-BPaJI9_S.js",
+      "_router-D9PAxtDW.js",
+      "_book-open-7wO0o8ZA.js",
+      "_external-link-daypFgz8.js"
+    ]
+  },
+  "src/routes/topics.$topicId.tsx?tsr-split=component": {
+    "file": "assets/topics._topicId-DvGWTjmY.js",
+    "name": "topics._topicId",
+    "src": "src/routes/topics.$topicId.tsx?tsr-split=component",
+    "isDynamicEntry": true,
+    "imports": [
+      "_worker-entry-DlAz7EEQ.js",
+      "_router-D9PAxtDW.js",
+      "_proxy-BPaJI9_S.js",
+      "_book-open-7wO0o8ZA.js",
+      "_external-link-daypFgz8.js"
+    ]
+  },
+  "src/routes/topics.$topicId.tsx?tsr-split=notFoundComponent": {
+    "file": "assets/topics._topicId-Bmo472XN.js",
+    "name": "topics._topicId",
+    "src": "src/routes/topics.$topicId.tsx?tsr-split=notFoundComponent",
+    "isDynamicEntry": true,
+    "imports": [
+      "_worker-entry-DlAz7EEQ.js",
+      "_router-D9PAxtDW.js"
+    ]
+  },
+  "src/routes/topics.index.tsx?tsr-split=component": {
+    "file": "assets/topics.index-DWR-XP5u.js",
+    "name": "topics.index",
+    "src": "src/routes/topics.index.tsx?tsr-split=component",
+    "isDynamicEntry": true,
+    "imports": [
+      "_worker-entry-DlAz7EEQ.js",
+      "_router-D9PAxtDW.js",
+      "_proxy-BPaJI9_S.js",
+      "_arrow-right-DdM_eKCk.js",
+      "_book-open-7wO0o8ZA.js"
+    ]
+  },
+  "tanstack-start-manifest:v": {
+    "file": "assets/_tanstack-start-manifest_v-DiAvsBrL.js",
+    "name": "_tanstack-start-manifest_v",
+    "src": "tanstack-start-manifest:v",
+    "isDynamicEntry": true
+  },
+  "virtual:cloudflare/worker-entry": {
+    "file": "index.js",
+    "name": "index",
+    "src": "virtual:cloudflare/worker-entry",
+    "isEntry": true,
+    "imports": [
+      "_worker-entry-DlAz7EEQ.js"
+    ]
+  }
+}
